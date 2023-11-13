@@ -1,0 +1,593 @@
+2023-08-26 16:39:11 INFO  BaseClass:41 - Url Opened Successfully.
+2023-08-26 16:39:11 INFO  BaseClass:17 - Username entered.
+2023-08-26 16:39:11 INFO  BaseClass:19 - Password entered.
+2023-08-26 16:39:13 INFO  BaseClass:21 - Login successful.
+2023-08-26 16:39:15 INFO  BaseClass:26 - Clicked on AddNewCustomer option.
+2023-08-26 16:39:19 INFO  BaseClass:54 - Customer name entered.
+2023-08-26 16:39:20 INFO  BaseClass:56 - Customer gender clicked.
+2023-08-26 16:39:21 INFO  BaseClass:59 - Customer date of birth entered.
+2023-08-26 16:39:23 INFO  BaseClass:62 - Customer address entered.
+2023-08-26 16:39:23 INFO  BaseClass:64 - Customer city entered.
+2023-08-26 16:39:25 INFO  BaseClass:67 - Customer state entered.
+2023-08-26 16:39:25 INFO  BaseClass:69 - Customer pin code entered.
+2023-08-26 16:39:27 INFO  BaseClass:74 - Customer phone no entered.
+2023-08-26 16:39:29 INFO  BaseClass:79 - Customer email entered.
+2023-08-26 16:39:30 INFO  BaseClass:82 - Clicked on Submit.
+2023-08-26 18:08:21 INFO  BaseClass:41 - Url Opened Successfully.
+2023-08-26 18:08:21 INFO  BaseClass:18 - Username entered.
+2023-08-26 18:08:21 INFO  BaseClass:20 - Password entered.
+2023-08-26 18:08:23 INFO  BaseClass:22 - Login successful.
+2023-08-26 18:08:25 INFO  BaseClass:27 - Clicked on AddNewCustomer option.
+2023-08-26 18:08:41 INFO  BaseClass:55 - Customer name entered.
+2023-08-26 18:08:41 INFO  BaseClass:57 - Customer gender clicked.
+2023-08-26 18:08:42 INFO  BaseClass:60 - Customer date of birth entered.
+2023-08-26 18:08:44 INFO  BaseClass:63 - Customer address entered.
+2023-08-26 18:08:45 INFO  BaseClass:65 - Customer city entered.
+2023-08-26 18:08:46 INFO  BaseClass:68 - Customer state entered.
+2023-08-26 18:08:46 INFO  BaseClass:70 - Customer pin code entered.
+2023-08-26 18:08:48 INFO  BaseClass:75 - Customer phone no entered.
+2023-08-26 18:08:51 INFO  BaseClass:80 - Customer email entered.
+2023-08-26 18:08:52 INFO  BaseClass:84 - Password entered.
+2023-08-26 18:08:54 INFO  BaseClass:86 - Clicked on Submit.
+2023-08-26 18:14:54 INFO  BaseClass:41 - Url Opened Successfully.
+2023-08-26 18:14:54 INFO  BaseClass:18 - Username entered.
+2023-08-26 18:14:54 INFO  BaseClass:20 - Password entered.
+2023-08-26 18:15:50 INFO  BaseClass:41 - Url Opened Successfully.
+2023-08-26 18:15:50 INFO  BaseClass:18 - Username entered.
+2023-08-26 18:15:51 INFO  BaseClass:20 - Password entered.
+2023-08-26 18:15:52 INFO  BaseClass:22 - Login successful.
+2023-08-26 18:15:55 INFO  BaseClass:27 - Clicked on AddNewCustomer option.
+2023-08-26 18:16:11 INFO  BaseClass:55 - Customer name entered.
+2023-08-26 18:16:11 INFO  BaseClass:57 - Customer gender clicked.
+2023-08-26 18:16:12 INFO  BaseClass:60 - Customer date of birth entered.
+2023-08-26 18:16:14 INFO  BaseClass:63 - Customer address entered.
+2023-08-26 18:16:14 INFO  BaseClass:65 - Customer city entered.
+2023-08-26 18:16:16 INFO  BaseClass:68 - Customer state entered.
+2023-08-26 18:16:16 INFO  BaseClass:70 - Customer pin code entered.
+2023-08-26 18:16:18 INFO  BaseClass:75 - Customer phone no entered.
+2023-08-26 18:16:20 INFO  BaseClass:80 - Customer email entered.
+2023-08-26 18:16:22 INFO  BaseClass:84 - Password entered.
+2023-08-26 18:16:22 INFO  BaseClass:86 - Clicked on Submit.
+2023-08-26 18:24:41 INFO  BaseClass:41 - Url Opened Successfully.
+2023-08-26 18:24:41 INFO  BaseClass:18 - Username entered.
+2023-08-26 18:24:41 INFO  BaseClass:20 - Password entered.
+2023-08-26 18:25:07 INFO  BaseClass:41 - Url Opened Successfully.
+2023-08-26 18:25:07 INFO  BaseClass:18 - Username entered.
+2023-08-26 18:25:08 INFO  BaseClass:20 - Password entered.
+2023-08-26 18:25:09 INFO  BaseClass:22 - Login successful.
+2023-08-26 18:25:11 INFO  BaseClass:27 - Clicked on AddNewCustomer option.
+2023-08-26 18:25:47 INFO  BaseClass:55 - Customer name entered.
+2023-08-26 18:25:48 INFO  BaseClass:57 - Customer gender clicked.
+2023-08-26 18:25:49 INFO  BaseClass:60 - Customer date of birth entered.
+2023-08-26 18:25:51 INFO  BaseClass:63 - Customer address entered.
+2023-08-26 18:25:51 INFO  BaseClass:65 - Customer city entered.
+2023-08-26 18:25:52 INFO  BaseClass:68 - Customer state entered.
+2023-08-26 18:25:53 INFO  BaseClass:70 - Customer pin code entered.
+2023-08-26 18:25:55 INFO  BaseClass:75 - Customer phone no entered.
+2023-08-26 18:25:57 INFO  BaseClass:80 - Customer email entered.
+2023-08-26 18:25:58 INFO  BaseClass:84 - Password entered.
+2023-08-26 18:25:59 INFO  BaseClass:86 - Clicked on Submit.
+2023-08-26 18:34:51 INFO  BaseClass:41 - Url Opened Successfully.
+2023-08-26 18:34:52 INFO  BaseClass:18 - Username entered.
+2023-08-26 18:34:52 INFO  BaseClass:20 - Password entered.
+2023-08-26 18:35:10 INFO  BaseClass:41 - Url Opened Successfully.
+2023-08-26 18:35:10 INFO  BaseClass:18 - Username entered.
+2023-08-26 18:35:11 INFO  BaseClass:20 - Password entered.
+2023-08-26 18:35:12 INFO  BaseClass:22 - Login successful.
+2023-08-26 18:35:15 INFO  BaseClass:27 - Clicked on AddNewCustomer option.
+2023-08-26 18:35:49 INFO  BaseClass:54 - Customer name entered.
+2023-08-26 18:35:49 INFO  BaseClass:56 - Customer gender clicked.
+2023-08-26 18:35:50 INFO  BaseClass:59 - Customer date of birth entered.
+2023-08-26 18:35:52 INFO  BaseClass:62 - Customer address entered.
+2023-08-26 18:35:52 INFO  BaseClass:64 - Customer city entered.
+2023-08-26 18:35:54 INFO  BaseClass:67 - Customer state entered.
+2023-08-26 18:35:54 INFO  BaseClass:69 - Customer pin code entered.
+2023-08-26 18:35:56 INFO  BaseClass:74 - Customer phone no entered.
+2023-08-26 18:35:58 INFO  BaseClass:79 - Customer email entered.
+2023-08-26 18:36:00 INFO  BaseClass:83 - Password entered.
+2023-08-26 18:36:02 INFO  BaseClass:85 - Clicked on Submit.
+2023-08-26 18:36:05 INFO  BaseClass:90 - Testcase passed.
+2023-08-28 09:22:12 INFO  BaseClass:41 - Url Opened Successfully.
+2023-08-28 09:22:13 INFO  BaseClass:15 - Url Opened Successfully.
+2023-08-28 09:22:14 INFO  BaseClass:18 - Username Entered
+2023-08-28 09:22:14 INFO  BaseClass:20 - Password Entered
+2023-08-28 09:22:17 INFO  BaseClass:22 - Logged into Application
+2023-08-28 09:22:37 INFO  BaseClass:41 - Url Opened Successfully.
+2023-08-28 09:22:39 INFO  BaseClass:19 - Username Entered
+2023-08-28 09:22:39 INFO  BaseClass:21 - Password Entered
+2023-08-28 09:22:46 INFO  BaseClass:32 - Login successful
+2023-08-28 09:22:54 INFO  BaseClass:19 - Username Entered
+2023-08-28 09:22:54 INFO  BaseClass:21 - Password Entered
+2023-08-28 09:23:02 INFO  BaseClass:19 - Username Entered
+2023-08-28 09:23:02 INFO  BaseClass:21 - Password Entered
+2023-08-28 09:23:10 INFO  BaseClass:19 - Username Entered
+2023-08-28 09:23:10 INFO  BaseClass:21 - Password Entered
+2023-08-28 09:23:51 INFO  BaseClass:41 - Url Opened Successfully.
+2023-08-28 09:23:51 INFO  BaseClass:18 - Username entered.
+2023-08-28 09:23:52 INFO  BaseClass:20 - Password entered.
+2023-08-28 09:23:53 INFO  BaseClass:22 - Login successful.
+2023-08-28 09:23:55 INFO  BaseClass:27 - Clicked on AddNewCustomer option.
+2023-08-28 09:24:29 INFO  BaseClass:53 - Providing customer details!
+2023-08-28 09:24:29 INFO  BaseClass:56 - Customer name entered.
+2023-08-28 09:24:29 INFO  BaseClass:58 - Customer gender clicked.
+2023-08-28 09:24:30 INFO  BaseClass:61 - Customer date of birth entered.
+2023-08-28 09:24:32 INFO  BaseClass:64 - Customer address entered.
+2023-08-28 09:24:32 INFO  BaseClass:66 - Customer city entered.
+2023-08-28 09:24:33 INFO  BaseClass:69 - Customer state entered.
+2023-08-28 09:24:34 INFO  BaseClass:71 - Customer pin code entered.
+2023-08-28 09:24:36 INFO  BaseClass:76 - Customer phone no entered.
+2023-08-28 09:24:38 INFO  BaseClass:81 - Customer email entered.
+2023-08-28 09:24:39 INFO  BaseClass:85 - Password entered.
+2023-08-28 09:24:41 INFO  BaseClass:87 - Clicked on Submit.
+2023-08-28 09:24:44 INFO  BaseClass:92 - Testcase passed.
+2023-08-28 09:28:56 INFO  BaseClass:41 - Url Opened Successfully.
+2023-08-28 09:28:57 INFO  BaseClass:19 - Username Entered
+2023-08-28 09:28:58 INFO  BaseClass:21 - Password Entered
+2023-08-28 09:29:04 INFO  BaseClass:19 - Username Entered
+2023-08-28 09:29:05 INFO  BaseClass:21 - Password Entered
+2023-08-28 09:29:12 INFO  BaseClass:19 - Username Entered
+2023-08-28 09:29:12 INFO  BaseClass:21 - Password Entered
+2023-08-28 09:29:21 INFO  BaseClass:32 - Login successful
+2023-08-28 09:29:31 INFO  BaseClass:19 - Username Entered
+2023-08-28 09:29:31 INFO  BaseClass:21 - Password Entered
+2023-08-28 09:29:49 INFO  BaseClass:41 - Url Opened Successfully.
+2023-08-28 09:29:51 INFO  BaseClass:15 - Url Opened Successfully.
+2023-08-28 09:29:51 INFO  BaseClass:18 - Username Entered
+2023-08-28 09:29:51 INFO  BaseClass:20 - Password Entered
+2023-08-28 09:29:53 INFO  BaseClass:22 - Logged into Application
+2023-09-06 12:31:07 INFO  BaseClass:41 - Url Opened Successfully.
+2023-09-06 12:31:07 INFO  BaseClass:18 - Username entered.
+2023-09-06 12:31:08 INFO  BaseClass:20 - Password entered.
+2023-09-06 12:31:10 INFO  BaseClass:22 - Login successful.
+2023-09-06 12:31:12 INFO  BaseClass:27 - Clicked on AddNewCustomer option.
+2023-09-06 12:31:46 INFO  BaseClass:53 - Providing customer details!
+2023-09-06 12:31:46 INFO  BaseClass:56 - Customer name entered.
+2023-09-06 12:31:46 INFO  BaseClass:58 - Customer gender clicked.
+2023-09-06 12:31:47 INFO  BaseClass:61 - Customer date of birth entered.
+2023-09-06 12:31:50 INFO  BaseClass:64 - Customer address entered.
+2023-09-06 12:31:50 INFO  BaseClass:66 - Customer city entered.
+2023-09-06 12:31:51 INFO  BaseClass:69 - Customer state entered.
+2023-09-06 12:31:51 INFO  BaseClass:71 - Customer pin code entered.
+2023-09-06 12:31:54 INFO  BaseClass:76 - Customer phone no entered.
+2023-09-06 12:31:56 INFO  BaseClass:81 - Customer email entered.
+2023-09-06 12:31:57 INFO  BaseClass:85 - Password entered.
+2023-09-06 12:31:58 INFO  BaseClass:87 - Clicked on Submit.
+2023-09-06 13:05:42 INFO  BaseClass:41 - Url Opened Successfully.
+2023-09-06 13:05:42 INFO  BaseClass:14 - Username entered.
+2023-09-06 13:05:42 INFO  BaseClass:16 - Password entered.
+2023-09-06 13:06:17 INFO  BaseClass:41 - Url Opened Successfully.
+2023-09-06 13:06:18 INFO  BaseClass:14 - Username entered.
+2023-09-06 13:06:18 INFO  BaseClass:16 - Password entered.
+2023-09-06 13:06:22 INFO  BaseClass:18 - Login successful.
+2023-09-06 13:07:09 INFO  BaseClass:41 - Url Opened Successfully.
+2023-09-06 13:07:10 INFO  BaseClass:14 - Username entered.
+2023-09-06 13:07:10 INFO  BaseClass:16 - Password entered.
+2023-09-06 13:07:12 INFO  BaseClass:18 - Login successful.
+2023-09-06 13:09:02 INFO  BaseClass:41 - Url Opened Successfully.
+2023-09-06 13:09:03 INFO  BaseClass:18 - Username entered.
+2023-09-06 13:09:03 INFO  BaseClass:20 - Password entered.
+2023-09-06 13:09:05 INFO  BaseClass:22 - Login successful.
+2023-09-06 13:16:01 INFO  BaseClass:41 - Url Opened Successfully.
+2023-09-06 13:16:01 INFO  BaseClass:18 - Username entered.
+2023-09-06 13:16:01 INFO  BaseClass:20 - Password entered.
+2023-09-06 13:16:21 INFO  BaseClass:41 - Url Opened Successfully.
+2023-09-06 13:16:21 INFO  BaseClass:18 - Username entered.
+2023-09-06 13:16:22 INFO  BaseClass:20 - Password entered.
+2023-09-06 13:17:11 INFO  BaseClass:41 - Url Opened Successfully.
+2023-09-06 13:17:11 INFO  BaseClass:18 - Username entered.
+2023-09-06 13:17:12 INFO  BaseClass:20 - Password entered.
+2023-09-06 13:18:45 INFO  BaseClass:41 - Url Opened Successfully.
+2023-09-06 13:18:46 INFO  BaseClass:18 - Username entered.
+2023-09-06 13:18:46 INFO  BaseClass:20 - Password entered.
+2023-09-06 13:20:51 INFO  BaseClass:41 - Url Opened Successfully.
+2023-09-06 13:20:52 INFO  BaseClass:18 - Username entered.
+2023-09-06 13:20:52 INFO  BaseClass:20 - Password entered.
+2023-09-06 13:20:55 INFO  BaseClass:22 - Login successful.
+2023-09-06 13:20:57 INFO  BaseClass:27 - Clicked on Edit Customer option
+2023-09-06 13:21:33 INFO  BaseClass:54 - Entered Customer ID
+2023-09-06 13:21:37 INFO  BaseClass:58 - Clicked on Submit
+2023-09-06 13:23:59 INFO  BaseClass:41 - Url Opened Successfully.
+2023-09-06 13:23:59 INFO  BaseClass:19 - Username entered.
+2023-09-06 13:24:00 INFO  BaseClass:21 - Password entered.
+2023-09-06 13:24:23 INFO  BaseClass:41 - Url Opened Successfully.
+2023-09-06 13:24:23 INFO  BaseClass:19 - Username entered.
+2023-09-06 13:24:24 INFO  BaseClass:21 - Password entered.
+2023-09-06 13:24:27 INFO  BaseClass:23 - Login successful.
+2023-09-06 13:24:29 INFO  BaseClass:28 - Clicked on Edit Customer option.
+2023-09-06 13:25:04 INFO  BaseClass:55 - Entered Customer ID.
+2023-09-06 13:25:09 INFO  BaseClass:59 - Clicked on Submit.
+2023-09-06 13:25:11 INFO  BaseClass:64 - Testcase passed.
+2023-09-06 13:30:16 INFO  BaseClass:41 - Url Opened Successfully.
+2023-09-06 13:30:16 INFO  BaseClass:19 - Username entered.
+2023-09-06 13:30:17 INFO  BaseClass:21 - Password entered.
+2023-09-06 13:30:36 INFO  BaseClass:41 - Url Opened Successfully.
+2023-09-06 13:30:37 INFO  BaseClass:19 - Username entered.
+2023-09-06 13:30:37 INFO  BaseClass:21 - Password entered.
+2023-09-06 13:30:40 INFO  BaseClass:23 - Login successful.
+2023-09-06 13:30:43 INFO  BaseClass:28 - Clicked on Edit Customer option.
+2023-09-06 13:30:47 INFO  BaseClass:55 - Entered Customer ID.
+2023-09-06 13:30:52 INFO  BaseClass:59 - Clicked on Submit.
+2023-09-06 13:30:54 INFO  BaseClass:64 - Testcase passed.
+2023-09-08 18:38:32 INFO  BaseClass:41 - Url Opened Successfully.
+2023-09-08 18:38:33 INFO  BaseClass:14 - Username entered.
+2023-09-08 18:38:33 INFO  BaseClass:16 - Password entered.
+2023-09-08 18:38:35 INFO  BaseClass:18 - Login successful.
+2023-09-08 18:38:38 INFO  BaseClass:23 - Clicked on New Account option.
+2023-09-08 18:39:43 INFO  BaseClass:41 - Url Opened Successfully.
+2023-09-08 18:39:43 INFO  BaseClass:18 - Username entered.
+2023-09-08 18:39:43 INFO  BaseClass:20 - Password entered.
+2023-09-08 18:40:00 INFO  BaseClass:41 - Url Opened Successfully.
+2023-09-08 18:40:01 INFO  BaseClass:18 - Username entered.
+2023-09-08 18:40:01 INFO  BaseClass:20 - Password entered.
+2023-09-08 18:40:03 INFO  BaseClass:22 - Login successful.
+2023-09-08 18:40:05 INFO  BaseClass:27 - Clicked on New Account option.
+2023-09-08 18:49:47 INFO  BaseClass:41 - Url Opened Successfully.
+2023-09-08 18:49:47 INFO  BaseClass:19 - Username entered.
+2023-09-08 18:49:47 INFO  BaseClass:21 - Password entered.
+2023-09-08 18:50:12 INFO  BaseClass:41 - Url Opened Successfully.
+2023-09-08 18:50:12 INFO  BaseClass:19 - Username entered.
+2023-09-08 18:50:12 INFO  BaseClass:21 - Password entered.
+2023-09-08 18:50:19 INFO  BaseClass:23 - Login successful.
+2023-09-08 18:50:21 INFO  BaseClass:28 - Clicked on New Account option.
+2023-09-08 18:50:29 INFO  BaseClass:56 - Clicked on reset.
+2023-09-08 18:50:31 INFO  BaseClass:60 - Entered Customer ID.
+2023-09-08 18:51:03 INFO  BaseClass:64 - Account type selected.
+2023-09-08 18:51:06 INFO  BaseClass:68 - Initial deposit entered.
+2023-09-08 18:51:11 INFO  BaseClass:72 - Clicked on Submit.
+2023-09-08 18:51:13 INFO  BaseClass:77 - Testcase passed.
+2023-09-08 19:00:50 INFO  BaseClass:41 - Url Opened Successfully.
+2023-09-08 19:00:51 INFO  BaseClass:19 - Username entered.
+2023-09-08 19:00:51 INFO  BaseClass:21 - Password entered.
+2023-09-08 19:01:09 INFO  BaseClass:41 - Url Opened Successfully.
+2023-09-08 19:01:10 INFO  BaseClass:19 - Username entered.
+2023-09-08 19:01:10 INFO  BaseClass:21 - Password entered.
+2023-09-08 19:01:12 INFO  BaseClass:23 - Login successful.
+2023-09-08 19:01:15 INFO  BaseClass:28 - Clicked on New Account option.
+2023-09-08 19:01:20 INFO  BaseClass:56 - Clicked on reset.
+2023-09-08 19:01:22 INFO  BaseClass:60 - Entered Customer ID.
+2023-09-08 19:01:54 INFO  BaseClass:64 - Account type selected.
+2023-09-08 19:01:57 INFO  BaseClass:68 - Initial deposit entered.
+2023-09-08 19:02:03 INFO  BaseClass:72 - Clicked on Submit.
+2023-09-08 19:02:05 INFO  BaseClass:77 - Testcase passed.
+2023-09-10 11:56:32 INFO  BaseClass:41 - Url Opened Successfully.
+2023-09-10 11:56:33 INFO  BaseClass:18 - Username entered.
+2023-09-10 11:56:33 INFO  BaseClass:20 - Password entered.
+2023-09-10 11:56:35 INFO  BaseClass:22 - Login successful.
+2023-09-10 11:56:37 INFO  BaseClass:27 - Withdrawal option clicked.
+2023-09-10 11:57:14 INFO  BaseClass:55 - Reset option clicked.
+2023-09-10 11:57:17 INFO  BaseClass:59 - Account No entered.
+2023-09-10 11:57:19 INFO  BaseClass:63 - Amount entered.
+2023-09-10 11:57:21 INFO  BaseClass:67 - Description provided.
+2023-09-10 11:57:27 INFO  BaseClass:71 - Clicked on Submit.
+2023-09-10 11:59:49 INFO  BaseClass:41 - Url Opened Successfully.
+2023-09-10 11:59:49 INFO  BaseClass:19 - Username entered.
+2023-09-10 11:59:50 INFO  BaseClass:21 - Password entered.
+2023-09-10 12:00:13 INFO  BaseClass:41 - Url Opened Successfully.
+2023-09-10 12:00:13 INFO  BaseClass:19 - Username entered.
+2023-09-10 12:00:14 INFO  BaseClass:21 - Password entered.
+2023-09-10 12:00:15 INFO  BaseClass:23 - Login successful.
+2023-09-10 12:00:18 INFO  BaseClass:28 - Withdrawal option clicked.
+2023-09-10 12:02:15 INFO  BaseClass:41 - Url Opened Successfully.
+2023-09-10 12:02:15 INFO  BaseClass:19 - Username entered.
+2023-09-10 12:02:15 INFO  BaseClass:21 - Password entered.
+2023-09-10 12:02:37 INFO  BaseClass:41 - Url Opened Successfully.
+2023-09-10 12:02:37 INFO  BaseClass:19 - Username entered.
+2023-09-10 12:02:38 INFO  BaseClass:21 - Password entered.
+2023-09-10 12:02:41 INFO  BaseClass:23 - Login successful.
+2023-09-10 12:02:43 INFO  BaseClass:28 - Withdrawal option clicked.
+2023-09-10 12:02:47 INFO  BaseClass:56 - Reset option clicked.
+2023-09-10 12:02:50 INFO  BaseClass:60 - Account No entered.
+2023-09-10 12:02:52 INFO  BaseClass:64 - Amount entered.
+2023-09-10 12:02:54 INFO  BaseClass:68 - Description provided.
+2023-09-10 12:02:58 INFO  BaseClass:72 - Clicked on Submit.
+2023-09-10 12:03:00 INFO  BaseClass:77 - Testcase passed.
+2023-09-10 12:05:38 INFO  BaseClass:41 - Url Opened Successfully.
+2023-09-10 12:05:38 INFO  BaseClass:19 - Username entered.
+2023-09-10 12:05:39 INFO  BaseClass:21 - Password entered.
+2023-09-10 12:05:41 INFO  BaseClass:23 - Login successful.
+2023-09-10 12:05:43 INFO  BaseClass:28 - Withdrawal option clicked.
+2023-09-10 12:06:20 INFO  BaseClass:56 - Reset option clicked.
+2023-09-10 12:06:23 INFO  BaseClass:60 - Account No entered.
+2023-09-10 12:06:25 INFO  BaseClass:64 - Amount entered.
+2023-09-10 12:06:27 INFO  BaseClass:68 - Description provided.
+2023-09-10 12:06:31 INFO  BaseClass:72 - Clicked on Submit.
+2023-09-10 12:06:33 INFO  BaseClass:77 - Testcase passed.
+2023-09-10 18:38:11 INFO  BaseClass:41 - Url Opened Successfully.
+2023-09-10 18:38:12 INFO  BaseClass:19 - Username entered.
+2023-09-10 18:38:12 INFO  BaseClass:21 - Password entered.
+2023-09-10 18:38:15 INFO  BaseClass:23 - Login successful.
+2023-09-10 18:38:18 INFO  BaseClass:28 - Clicked on Fund Transfer option.
+2023-09-10 18:38:54 INFO  BaseClass:56 - Clicked Reset option.
+2023-09-10 18:38:57 INFO  BaseClass:60 - Payers account no entered.
+2023-09-10 18:38:59 INFO  BaseClass:64 - Payees account no entered.
+2023-09-10 18:39:01 INFO  BaseClass:68 - Amount entered.
+2023-09-10 18:39:03 INFO  BaseClass:72 - Description provided.
+2023-09-10 18:39:05 INFO  BaseClass:76 - Submit option clicked.
+2023-09-10 18:40:27 INFO  BaseClass:41 - Url Opened Successfully.
+2023-09-10 18:40:28 INFO  BaseClass:19 - Username entered.
+2023-09-10 18:40:28 INFO  BaseClass:21 - Password entered.
+2023-09-10 18:40:42 INFO  BaseClass:41 - Url Opened Successfully.
+2023-09-10 18:40:42 INFO  BaseClass:19 - Username entered.
+2023-09-10 18:40:43 INFO  BaseClass:21 - Password entered.
+2023-09-10 18:40:44 INFO  BaseClass:23 - Login successful.
+2023-09-10 18:40:47 INFO  BaseClass:28 - Clicked on Fund Transfer option.
+2023-09-10 18:41:24 INFO  BaseClass:56 - Clicked Reset option.
+2023-09-10 18:41:26 INFO  BaseClass:60 - Payers account no entered.
+2023-09-10 18:41:28 INFO  BaseClass:64 - Payees account no entered.
+2023-09-10 18:41:31 INFO  BaseClass:68 - Amount entered.
+2023-09-10 18:41:33 INFO  BaseClass:72 - Description provided.
+2023-09-10 18:41:38 INFO  BaseClass:76 - Submit option clicked.
+2023-09-10 18:41:38 INFO  BaseClass:80 - Testcase passed.
+2023-09-10 18:44:07 INFO  BaseClass:41 - Url Opened Successfully.
+2023-09-10 18:44:08 INFO  BaseClass:19 - Username entered.
+2023-09-10 18:44:08 INFO  BaseClass:21 - Password entered.
+2023-09-10 18:44:11 INFO  BaseClass:23 - Login successful.
+2023-09-10 18:44:13 INFO  BaseClass:28 - Clicked on Fund Transfer option.
+2023-09-10 18:44:19 INFO  BaseClass:56 - Clicked Reset option.
+2023-09-10 18:44:21 INFO  BaseClass:60 - Payers account no entered.
+2023-09-10 18:44:23 INFO  BaseClass:64 - Payees account no entered.
+2023-09-10 18:44:25 INFO  BaseClass:68 - Amount entered.
+2023-09-10 18:44:28 INFO  BaseClass:72 - Description provided.
+2023-09-10 18:44:32 INFO  BaseClass:76 - Submit option clicked.
+2023-09-10 18:46:13 INFO  BaseClass:41 - Url Opened Successfully.
+2023-09-10 18:46:13 INFO  BaseClass:19 - Username entered.
+2023-09-10 18:46:13 INFO  BaseClass:21 - Password entered.
+2023-09-10 18:46:17 INFO  BaseClass:23 - Login successful.
+2023-09-10 18:46:19 INFO  BaseClass:28 - Clicked on Fund Transfer option.
+2023-09-10 18:46:25 INFO  BaseClass:56 - Clicked Reset option.
+2023-09-10 18:46:27 INFO  BaseClass:60 - Payers account no entered.
+2023-09-10 18:46:29 INFO  BaseClass:64 - Payees account no entered.
+2023-09-10 18:46:31 INFO  BaseClass:68 - Amount entered.
+2023-09-10 18:46:34 INFO  BaseClass:72 - Description provided.
+2023-09-10 18:46:38 INFO  BaseClass:76 - Submit option clicked.
+2023-09-10 18:48:20 INFO  BaseClass:41 - Url Opened Successfully.
+2023-09-10 18:48:21 INFO  BaseClass:19 - Username entered.
+2023-09-10 18:48:21 INFO  BaseClass:21 - Password entered.
+2023-09-10 18:48:24 INFO  BaseClass:23 - Login successful.
+2023-09-10 18:48:27 INFO  BaseClass:28 - Clicked on Fund Transfer option.
+2023-09-10 18:49:03 INFO  BaseClass:56 - Clicked Reset option.
+2023-09-10 18:49:05 INFO  BaseClass:60 - Payers account no entered.
+2023-09-10 18:49:07 INFO  BaseClass:64 - Payees account no entered.
+2023-09-10 18:49:10 INFO  BaseClass:68 - Amount entered.
+2023-09-10 18:49:12 INFO  BaseClass:72 - Description provided.
+2023-09-10 18:49:16 INFO  BaseClass:76 - Submit option clicked.
+2023-09-10 18:50:31 INFO  BaseClass:41 - Url Opened Successfully.
+2023-09-10 18:50:32 INFO  BaseClass:19 - Username entered.
+2023-09-10 18:50:32 INFO  BaseClass:21 - Password entered.
+2023-09-10 18:50:35 INFO  BaseClass:23 - Login successful.
+2023-09-10 18:50:37 INFO  BaseClass:28 - Clicked on Fund Transfer option.
+2023-09-10 18:51:14 INFO  BaseClass:56 - Clicked Reset option.
+2023-09-10 18:51:16 INFO  BaseClass:60 - Payers account no entered.
+2023-09-10 18:51:18 INFO  BaseClass:64 - Payees account no entered.
+2023-09-10 18:51:20 INFO  BaseClass:68 - Amount entered.
+2023-09-10 18:51:22 INFO  BaseClass:72 - Description provided.
+2023-09-10 18:51:27 INFO  BaseClass:76 - Submit option clicked.
+2023-09-10 18:53:40 INFO  BaseClass:41 - Url Opened Successfully.
+2023-09-10 18:53:40 INFO  BaseClass:19 - Username entered.
+2023-09-10 18:53:41 INFO  BaseClass:21 - Password entered.
+2023-09-10 18:54:22 INFO  BaseClass:41 - Url Opened Successfully.
+2023-09-10 18:54:23 INFO  BaseClass:19 - Username entered.
+2023-09-10 18:54:23 INFO  BaseClass:21 - Password entered.
+2023-09-10 18:54:25 INFO  BaseClass:23 - Login successful.
+2023-09-10 18:54:27 INFO  BaseClass:28 - Clicked on Fund Transfer option.
+2023-09-10 18:55:05 INFO  BaseClass:56 - Clicked Reset option.
+2023-09-10 18:55:07 INFO  BaseClass:60 - Payers account no entered.
+2023-09-10 18:55:09 INFO  BaseClass:64 - Payees account no entered.
+2023-09-10 18:55:12 INFO  BaseClass:68 - Amount entered.
+2023-09-10 18:55:14 INFO  BaseClass:72 - Description provided.
+2023-09-10 18:55:18 INFO  BaseClass:76 - Submit option clicked.
+2023-09-10 18:55:21 INFO  BaseClass:81 - Testcase passed.
+2023-09-18 11:25:17 INFO  BaseClass:41 - Url Opened Successfully.
+2023-09-18 11:25:18 INFO  BaseClass:15 - Url Opened Successfully.
+2023-09-18 11:25:19 INFO  BaseClass:18 - Username Entered
+2023-09-18 11:25:19 INFO  BaseClass:20 - Password Entered
+2023-09-18 11:25:22 INFO  BaseClass:22 - Logged into Application
+2023-09-18 11:25:32 INFO  BaseClass:41 - Url Opened Successfully.
+2023-09-18 11:25:34 INFO  BaseClass:19 - Username Entered
+2023-09-18 11:25:34 INFO  BaseClass:21 - Password Entered
+2023-09-18 11:25:40 INFO  BaseClass:32 - Login successful
+2023-09-18 11:25:50 INFO  BaseClass:19 - Username Entered
+2023-09-18 11:25:50 INFO  BaseClass:21 - Password Entered
+2023-09-18 11:25:59 INFO  BaseClass:19 - Username Entered
+2023-09-18 11:25:59 INFO  BaseClass:21 - Password Entered
+2023-09-18 11:26:08 INFO  BaseClass:19 - Username Entered
+2023-09-18 11:26:09 INFO  BaseClass:21 - Password Entered
+2023-09-18 11:26:14 INFO  BaseClass:32 - Login successful
+2023-09-18 11:26:23 INFO  BaseClass:19 - Username Entered
+2023-09-18 11:26:23 INFO  BaseClass:21 - Password Entered
+2023-09-18 11:26:40 INFO  BaseClass:41 - Url Opened Successfully.
+2023-09-18 11:26:40 INFO  BaseClass:18 - Username entered.
+2023-09-18 11:26:40 INFO  BaseClass:20 - Password entered.
+2023-09-18 11:26:43 INFO  BaseClass:22 - Login successful.
+2023-09-18 11:26:45 INFO  BaseClass:27 - Clicked on AddNewCustomer option.
+2023-09-18 11:27:19 INFO  BaseClass:54 - Providing customer details!
+2023-09-18 11:27:19 INFO  BaseClass:57 - Customer name entered.
+2023-09-18 11:27:19 INFO  BaseClass:59 - Customer gender clicked.
+2023-09-18 11:27:21 INFO  BaseClass:62 - Customer date of birth entered.
+2023-09-18 11:27:23 INFO  BaseClass:65 - Customer address entered.
+2023-09-18 11:27:23 INFO  BaseClass:67 - Customer city entered.
+2023-09-18 11:27:24 INFO  BaseClass:70 - Customer state entered.
+2023-09-18 11:27:25 INFO  BaseClass:72 - Customer pin code entered.
+2023-09-18 11:27:27 INFO  BaseClass:77 - Customer phone no entered.
+2023-09-18 11:27:29 INFO  BaseClass:82 - Customer email entered.
+2023-09-18 11:27:30 INFO  BaseClass:86 - Password entered.
+2023-09-18 11:27:33 INFO  BaseClass:88 - Clicked on Submit.
+2023-09-18 11:27:36 INFO  BaseClass:93 - Testcase passed.
+2023-09-18 11:27:46 INFO  BaseClass:41 - Url Opened Successfully.
+2023-09-18 11:27:46 INFO  BaseClass:19 - Username entered.
+2023-09-18 11:27:46 INFO  BaseClass:21 - Password entered.
+2023-09-18 11:27:49 INFO  BaseClass:23 - Login successful.
+2023-09-18 11:27:51 INFO  BaseClass:28 - Clicked on Edit Customer option.
+2023-09-18 11:27:56 INFO  BaseClass:56 - Entered Customer ID.
+2023-09-18 11:28:01 INFO  BaseClass:60 - Clicked on Submit.
+2023-09-18 11:28:03 INFO  BaseClass:65 - Testcase passed.
+2023-09-18 11:28:11 INFO  BaseClass:41 - Url Opened Successfully.
+2023-09-18 11:28:11 INFO  BaseClass:19 - Username entered.
+2023-09-18 11:28:11 INFO  BaseClass:21 - Password entered.
+2023-09-18 11:28:19 INFO  BaseClass:41 - Url Opened Successfully.
+2023-09-18 11:28:19 INFO  BaseClass:19 - Username entered.
+2023-09-18 11:28:19 INFO  BaseClass:21 - Password entered.
+2023-09-18 11:28:26 INFO  BaseClass:41 - Url Opened Successfully.
+2023-09-18 11:28:27 INFO  BaseClass:19 - Username entered.
+2023-09-18 11:28:27 INFO  BaseClass:21 - Password entered.
+2023-09-18 11:28:29 INFO  BaseClass:23 - Login successful.
+2023-09-18 11:28:31 INFO  BaseClass:28 - Clicked on Fund Transfer option.
+2023-09-18 11:29:07 INFO  BaseClass:56 - Clicked Reset option.
+2023-09-18 11:29:09 INFO  BaseClass:60 - Payers account no entered.
+2023-09-18 11:29:11 INFO  BaseClass:64 - Payees account no entered.
+2023-09-18 11:29:14 INFO  BaseClass:68 - Amount entered.
+2023-09-18 11:29:16 INFO  BaseClass:72 - Description provided.
+2023-09-18 11:29:20 INFO  BaseClass:76 - Submit option clicked.
+2023-09-18 11:29:22 INFO  BaseClass:81 - Testcase passed.
+2023-09-18 11:32:39 INFO  BaseClass:41 - Url Opened Successfully.
+2023-09-18 11:32:39 INFO  BaseClass:19 - Username entered.
+2023-09-18 11:32:39 INFO  BaseClass:21 - Password entered.
+2023-09-18 11:32:41 INFO  BaseClass:23 - Login successful.
+2023-09-18 11:32:43 INFO  BaseClass:28 - Withdrawal option clicked.
+2023-09-18 11:33:21 INFO  BaseClass:56 - Reset option clicked.
+2023-09-18 11:33:23 INFO  BaseClass:60 - Account No entered.
+2023-09-18 11:33:25 INFO  BaseClass:64 - Amount entered.
+2023-09-18 11:33:27 INFO  BaseClass:68 - Description provided.
+2023-09-18 11:33:32 INFO  BaseClass:72 - Clicked on Submit.
+2023-09-18 11:33:47 INFO  BaseClass:41 - Url Opened Successfully.
+2023-09-18 11:33:49 INFO  BaseClass:19 - Username Entered
+2023-09-18 11:33:49 INFO  BaseClass:21 - Password Entered
+2023-09-18 11:33:57 INFO  BaseClass:19 - Username Entered
+2023-09-18 11:33:57 INFO  BaseClass:21 - Password Entered
+2023-09-18 11:34:10 INFO  BaseClass:19 - Username Entered
+2023-09-18 11:34:10 INFO  BaseClass:21 - Password Entered
+2023-09-18 11:34:25 INFO  BaseClass:41 - Url Opened Successfully.
+2023-09-18 11:34:26 INFO  BaseClass:15 - Url Opened Successfully.
+2023-09-18 11:34:27 INFO  BaseClass:18 - Username Entered
+2023-09-18 11:34:27 INFO  BaseClass:20 - Password Entered
+2023-09-18 11:34:29 INFO  BaseClass:22 - Logged into Application
+2023-09-18 11:34:37 INFO  BaseClass:41 - Url Opened Successfully.
+2023-09-18 11:34:37 INFO  BaseClass:19 - Username entered.
+2023-09-18 11:34:37 INFO  BaseClass:21 - Password entered.
+2023-09-18 11:36:58 INFO  BaseClass:41 - Url Opened Successfully.
+2023-09-18 11:37:01 INFO  BaseClass:15 - Url Opened Successfully.
+2023-09-18 11:37:01 INFO  BaseClass:18 - Username Entered
+2023-09-18 11:37:02 INFO  BaseClass:20 - Password Entered
+2023-09-18 11:37:06 INFO  BaseClass:22 - Logged into Application
+2023-09-18 11:39:31 INFO  BaseClass:41 - Url Opened Successfully.
+2023-09-18 11:39:33 INFO  BaseClass:15 - Url Opened Successfully.
+2023-09-18 11:39:34 INFO  BaseClass:18 - Username Entered
+2023-09-18 11:39:34 INFO  BaseClass:20 - Password Entered
+2023-09-18 11:39:38 INFO  BaseClass:22 - Logged into Application
+2023-09-18 11:39:39 INFO  BaseClass:26 - Testcase Passed
+2023-09-18 11:41:19 INFO  BaseClass:41 - Url Opened Successfully.
+2023-09-18 11:41:21 INFO  BaseClass:15 - Url Opened Successfully.
+2023-09-18 11:41:21 INFO  BaseClass:18 - Username Entered
+2023-09-18 11:41:22 INFO  BaseClass:20 - Password Entered
+2023-09-18 11:41:47 INFO  BaseClass:41 - Url Opened Successfully.
+2023-09-18 11:41:48 INFO  BaseClass:15 - Url Opened Successfully.
+2023-09-18 11:41:49 INFO  BaseClass:18 - Username Entered
+2023-09-18 11:41:49 INFO  BaseClass:20 - Password Entered
+2023-09-18 11:41:51 INFO  BaseClass:22 - Logged into Application
+2023-09-18 11:41:51 INFO  BaseClass:26 - Testcase Passed
+2023-09-18 11:43:41 INFO  BaseClass:41 - Url Opened Successfully.
+2023-09-18 11:43:43 INFO  BaseClass:15 - Url Opened Successfully.
+2023-09-18 11:43:44 INFO  BaseClass:18 - Username Entered
+2023-09-18 11:43:44 INFO  BaseClass:20 - Password Entered
+2023-09-18 11:43:47 INFO  BaseClass:22 - Logged into Application
+2023-09-18 11:43:47 INFO  BaseClass:26 - Testcase Passed
+2023-09-18 11:43:56 INFO  BaseClass:41 - Url Opened Successfully.
+2023-09-18 11:44:01 INFO  BaseClass:19 - Username Entered
+2023-09-18 11:44:01 INFO  BaseClass:21 - Password Entered
+2023-09-18 11:44:08 INFO  BaseClass:32 - Login successful
+2023-09-18 11:44:17 INFO  BaseClass:19 - Username Entered
+2023-09-18 11:44:18 INFO  BaseClass:21 - Password Entered
+2023-09-18 11:44:31 INFO  BaseClass:19 - Username Entered
+2023-09-18 11:44:31 INFO  BaseClass:21 - Password Entered
+2023-09-18 11:44:39 INFO  BaseClass:19 - Username Entered
+2023-09-18 11:44:39 INFO  BaseClass:21 - Password Entered
+2023-09-18 11:44:45 INFO  BaseClass:32 - Login successful
+2023-09-18 11:44:58 INFO  BaseClass:19 - Username Entered
+2023-09-18 11:44:58 INFO  BaseClass:21 - Password Entered
+2023-09-18 11:45:28 INFO  BaseClass:41 - Url Opened Successfully.
+2023-09-18 11:45:28 INFO  BaseClass:18 - Username entered.
+2023-09-18 11:45:29 INFO  BaseClass:20 - Password entered.
+2023-09-18 11:45:33 INFO  BaseClass:22 - Login successful.
+2023-09-18 11:45:35 INFO  BaseClass:27 - Clicked on AddNewCustomer option.
+2023-09-18 11:46:16 INFO  BaseClass:54 - Providing customer details!
+2023-09-18 11:46:16 INFO  BaseClass:57 - Customer name entered.
+2023-09-18 11:46:16 INFO  BaseClass:59 - Customer gender clicked.
+2023-09-18 11:46:18 INFO  BaseClass:62 - Customer date of birth entered.
+2023-09-18 11:46:20 INFO  BaseClass:65 - Customer address entered.
+2023-09-18 11:46:20 INFO  BaseClass:67 - Customer city entered.
+2023-09-18 11:46:22 INFO  BaseClass:70 - Customer state entered.
+2023-09-18 11:46:22 INFO  BaseClass:72 - Customer pin code entered.
+2023-09-18 11:46:24 INFO  BaseClass:77 - Customer phone no entered.
+2023-09-18 11:46:27 INFO  BaseClass:82 - Customer email entered.
+2023-09-18 11:46:28 INFO  BaseClass:86 - Password entered.
+2023-09-18 11:46:30 INFO  BaseClass:88 - Clicked on Submit.
+2023-09-18 11:46:33 INFO  BaseClass:93 - Testcase passed.
+2023-09-18 11:46:47 INFO  BaseClass:41 - Url Opened Successfully.
+2023-09-18 11:46:47 INFO  BaseClass:19 - Username entered.
+2023-09-18 11:46:48 INFO  BaseClass:21 - Password entered.
+2023-09-18 11:46:55 INFO  BaseClass:23 - Login successful.
+2023-09-18 11:46:58 INFO  BaseClass:28 - Clicked on Edit Customer option.
+2023-09-18 11:47:36 INFO  BaseClass:56 - Entered Customer ID.
+2023-09-18 11:47:43 INFO  BaseClass:60 - Clicked on Submit.
+2023-09-18 11:47:45 INFO  BaseClass:65 - Testcase passed.
+2023-09-18 11:48:11 INFO  BaseClass:41 - Url Opened Successfully.
+2023-09-18 11:48:11 INFO  BaseClass:19 - Username entered.
+2023-09-18 11:48:12 INFO  BaseClass:21 - Password entered.
+2023-09-18 11:48:17 INFO  BaseClass:23 - Login successful.
+2023-09-18 11:48:20 INFO  BaseClass:28 - Clicked on New Account option.
+2023-09-18 11:48:57 INFO  BaseClass:56 - Clicked on reset.
+2023-09-18 11:48:59 INFO  BaseClass:60 - Entered Customer ID.
+2023-09-18 11:49:31 INFO  BaseClass:64 - Account type selected.
+2023-09-18 11:49:34 INFO  BaseClass:68 - Initial deposit entered.
+2023-09-18 11:49:38 INFO  BaseClass:72 - Clicked on Submit.
+2023-09-18 11:49:40 INFO  BaseClass:77 - Testcase passed.
+2023-09-18 11:49:50 INFO  BaseClass:41 - Url Opened Successfully.
+2023-09-18 11:49:50 INFO  BaseClass:19 - Username entered.
+2023-09-18 11:49:50 INFO  BaseClass:21 - Password entered.
+2023-09-18 11:50:00 INFO  BaseClass:41 - Url Opened Successfully.
+2023-09-18 11:50:00 INFO  BaseClass:19 - Username entered.
+2023-09-18 11:50:01 INFO  BaseClass:21 - Password entered.
+2023-09-18 11:50:03 INFO  BaseClass:23 - Login successful.
+2023-09-18 11:50:05 INFO  BaseClass:28 - Clicked on Fund Transfer option.
+2023-09-18 11:50:42 INFO  BaseClass:56 - Clicked Reset option.
+2023-09-18 11:50:45 INFO  BaseClass:60 - Payers account no entered.
+2023-09-18 11:50:47 INFO  BaseClass:64 - Payees account no entered.
+2023-09-18 11:50:50 INFO  BaseClass:68 - Amount entered.
+2023-09-18 11:50:52 INFO  BaseClass:72 - Description provided.
+2023-09-18 11:50:56 INFO  BaseClass:76 - Submit option clicked.
+2023-09-18 11:50:58 INFO  BaseClass:81 - Testcase passed.
+2023-09-18 11:54:06 INFO  BaseClass:41 - Url Opened Successfully.
+2023-09-18 11:54:07 INFO  BaseClass:19 - Username entered.
+2023-09-18 11:54:08 INFO  BaseClass:21 - Password entered.
+2023-09-18 11:54:11 INFO  BaseClass:23 - Login successful.
+2023-09-18 11:54:13 INFO  BaseClass:28 - Withdrawal option clicked.
+2023-09-18 11:54:52 INFO  BaseClass:56 - Reset option clicked.
+2023-09-18 11:54:54 INFO  BaseClass:60 - Account No entered.
+2023-09-18 11:54:57 INFO  BaseClass:64 - Amount entered.
+2023-09-18 11:54:59 INFO  BaseClass:68 - Description provided.
+2023-09-18 11:55:03 INFO  BaseClass:72 - Clicked on Submit.
+2023-09-18 12:01:26 INFO  BaseClass:41 - Url Opened Successfully.
+2023-09-18 12:01:27 INFO  BaseClass:19 - Username entered.
+2023-09-18 12:01:27 INFO  BaseClass:21 - Password entered.
+2023-09-18 12:01:56 INFO  BaseClass:41 - Url Opened Successfully.
+2023-09-18 12:01:57 INFO  BaseClass:19 - Username entered.
+2023-09-18 12:01:57 INFO  BaseClass:21 - Password entered.
+2023-09-18 12:01:59 INFO  BaseClass:23 - Login successful.
+2023-09-18 12:02:02 INFO  BaseClass:28 - Withdrawal option clicked.
+2023-09-18 12:02:40 INFO  BaseClass:56 - Reset option clicked.
+2023-09-18 12:02:42 INFO  BaseClass:60 - Account No entered.
+2023-09-18 12:02:45 INFO  BaseClass:64 - Amount entered.
+2023-09-18 12:02:47 INFO  BaseClass:68 - Description provided.
+2023-09-18 12:02:51 INFO  BaseClass:72 - Clicked on Submit.
+2023-09-18 12:02:53 INFO  BaseClass:77 - Testcase passed.
+2023-09-18 12:03:32 INFO  BaseClass:41 - Url Opened Successfully.
+2023-09-18 12:03:33 INFO  BaseClass:19 - Username entered.
+2023-09-18 12:03:33 INFO  BaseClass:21 - Password entered.
+2023-09-18 12:03:38 INFO  BaseClass:23 - Login successful.
+2023-09-18 12:03:41 INFO  BaseClass:28 - Withdrawal option clicked.
+2023-09-18 12:04:18 INFO  BaseClass:56 - Reset option clicked.
+2023-09-18 12:04:20 INFO  BaseClass:60 - Account No entered.
+2023-09-18 12:04:23 INFO  BaseClass:64 - Amount entered.
+2023-09-18 12:04:25 INFO  BaseClass:68 - Description provided.
+2023-09-18 12:04:30 INFO  BaseClass:72 - Clicked on Submit.
+2023-09-18 12:04:32 INFO  BaseClass:77 - Testcase passed.
